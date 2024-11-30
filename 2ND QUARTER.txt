@@ -1,0 +1,24 @@
+<html>
+<head><title>About Me</title></head>
+<body background="f1.jpg">
+<table align="center" width="1510" border="3" bordercolor="#483248" cellpadding="10">
+<body>
+ <tr>
+<th bgcolor="#301934"> <font color="#702963" face="Lucida Bright"> ACTIVITIES</font>
+</th>
+<th bgcolor="#301934">
+<font color="#702963" face="Lucida Bright"> OUTPUTS </font>
+</ th>
+<th bgcolor="#301934">
+<font color="#702963" face="Lucida Bright"> REFLECTION </font>
+</th>
+<th bgcolor="#301934"> <font color="#702963" face="Lucida Bright" >
+<a href="https://lance12345643.github.io/ESLIZA_E-PORTFOLIO_1ST_QUARTER/"> FIRST QUARTER
+</th>
+<th bgcolor="#301934">
+<font color="#702963" face="Lucida Bright">
+<a href="mailto:lanceneoesliza@gmail.com">Contact Me! </a>
+</font>
+</table>
+ <img src="f3.jpg" alt="pia and me" width="500px" height="450px" class="pfp" align="right">
+</html>
